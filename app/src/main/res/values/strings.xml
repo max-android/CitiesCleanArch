@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CitiesCleanArch</string>
+    <string name="latitude">Широта:</string>
+    <string name="longitude">Долгота:</string>
+    <string name="info">Введите координаты объекта для поиска</string>
+    <string name="title_activity_list">ListActivity</string>
+
+
+
+    <string name="start">Найти города</string>
+
+
+    <string name="hint_latitude">Введите широту:</string>
+    <string name="hint_longitude">Введите долготу:</string>
+    <string name="empty">По данному запросу ничего не найдено !!!</string>
+    <string name="fill_in_the_fields">Заполните поля !!!</string>
+    <string name="error">Города не найдены - попробуйте подключить интернет !!!</string>
+</resources>
